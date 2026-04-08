@@ -67,8 +67,7 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Struts_2-D22128?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  
 </p>
 
 ### Databases & Tools
@@ -84,17 +83,12 @@
 ## 💻 Skill Icons
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,html,css,nodejs,express,spring,mysql,mongodb,git,github,docker,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,html,css,nodejs,express,spring,mysql,mongodb,git,github&perline=8" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UmaNaidu01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmaNaidu01&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
 
 ---
 
