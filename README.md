@@ -36,9 +36,11 @@
 
 ## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"> Coding Vibes
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="coding gif" />
+
+ <p align="center">
+<img src="https://media.giphy.com/media/3ohzdQ1IynzclJldUQ/giphy.gif" width="400">
 </p>
+
 
 ---
 
